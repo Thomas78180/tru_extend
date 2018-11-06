@@ -1,0 +1,20 @@
+{
+  "name": "tru_extend",
+  "version": "1.0.0",
+  "description": "jQuery extend method extracted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas78180/tru_extend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas78180/tru_extend/issues"
+  },
+  "homepage": "https://github.com/Thomas78180/tru_extend#readme"
+}
